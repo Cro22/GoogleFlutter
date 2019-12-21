@@ -25,7 +25,3 @@ To run the project you need:
 	- flutter.sdk= Change to the flutter SDK in your PC
 - Changes in gradle-wrapper.properties:
 	- distributionUrl = Change to Gradle zip in your PC or change to [Gradle version of your choice](https\://services.gradle.org/distributions/)
-- Changes in flutter_export_environment.sh and Generated.xcconfig
-	- FLUTTER_ROOT = Flutter SDK
-	- FLUTTER_APPLICATION_PATH = Route of your application
-	- FLUTTER_FRAMEWORK_DIR = Your flutter SDK path \bin\cache\artifacts\engine\ios

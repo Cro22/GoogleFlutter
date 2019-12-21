@@ -1,7 +1,7 @@
 
 # Startup Name Generator  
-  
-A new Flutter project.  
+
+Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.  In this codelab, you'll extend a basic Flutter mobile app to include interactivity. You'll also create a second page (called a route) that the user can navigate to. Finally, you'll modify the app's theme (color). This codelab extends part 1, Create a Lazily Loaded List, but we'll provide the starting code, if you'd like to start with part 2. 
   
 ## Getting Started  
   
